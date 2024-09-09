@@ -1,0 +1,38 @@
+[
+  {
+    "english": "Monday",
+    "russian": "Понедельник"
+  },
+  {
+    "english": "Find",
+    "russian": "Найти"
+  },
+  {
+    "english": "Tuesday",
+    "russian": "Вторник"
+  },
+  {
+    "english": "Wednesday",
+    "russian": "Среда"
+  },
+  {
+    "english": "Thursday",
+    "russian": "Четверг"
+  },
+  {
+    "english": "Friday",
+    "russian": "Пятница"
+  },
+  {
+    "english": "Saturday",
+    "russian": "Суббота"
+  },
+  {
+    "english": "Sunday",
+    "russian": "Воскресенье"
+  },
+  {
+    "english": "Language",
+    "russian": "Язык"
+  }
+]
